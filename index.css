@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+.Index{
+    margin: 0px 10px 0px 10px;
+    color:white;
+}
+.Food{
+    color:white;
+}
+.About{
+   margin: 0px 10px 0px 10px ;
+   color:white;
+}
+
+#navbar{
+    background-color: #25272b;
+    padding: 25px;
+    font-size:20px;
+    color:white;
+}
+.tag:hover{
+    background-color: black;
+}
+.tag{
+    padding: 18px;
+    
+}
+h2{
+    margin: 10px 0px 15px 10px;
+}
+.Parent{
+    background-color: #c0cbd7;
+    margin-top: -10px;
+    padding-top: 5px;
+}
+a{
+    text-decoration: none;
+    font-size:18px;
+    color:black;
+}
+.img{
+    text-align: center; 
+}
+.img>img{
+    height:400px;
+    width:600px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+p{
+    font-size:20px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  a:hover{
+    cursor:pointer
+  }
+  
